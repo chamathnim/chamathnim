@@ -23,6 +23,6 @@
 </p>
 
 ## 🤝 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](www.linkedin.com/in/chamath-nimnaada-1371b5208)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge)]([https://twitter.com/YourTwitter](https://twitter.com/ChamathNimnaada))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/chamath-nimnaada-1371b5208)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/ChamathNimnaada)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23111111.svg?logo=githubpages&logoColor=white&style=for-the-badge)](https://YourPortfolioLink.com)
