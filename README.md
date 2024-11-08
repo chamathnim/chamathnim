@@ -19,7 +19,7 @@
 ## 📈 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" width="48%" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" width="48%" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chamathnim&theme=radical" width="48%" alt="GitHub Streak">
 </p>
 
 ## 🤝 Let's Connect
